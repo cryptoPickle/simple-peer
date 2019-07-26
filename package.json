@@ -19,7 +19,7 @@
   },
   "devDependencies": {
     "browserify": "^14.0.0",
-    "concat-stream": "^1.4.6",
+    "concat-stream": "^2.0.0",
     "electron-webrtc": "^0.3.0",
     "prettier-bytes": "^1.0.3",
     "simple-get": "^2.0.0",
